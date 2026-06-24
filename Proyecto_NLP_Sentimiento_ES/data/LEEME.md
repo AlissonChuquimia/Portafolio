@@ -14,5 +14,5 @@ pip install datasets pandas
 python data/descargar_dataset.py     # descarga 'muchocine' (reseñas de cine en español)
 ```
 
-## Si no hay datos
-El notebook genera un pequeño **corpus de demostración** para ejecutarse igual.
+## Descaragr de Kaggle
+[corpus de demostración](https://www.kaggle.com/datasets/philipsanm/sentiment-analysis-in-spanish-tweets)
