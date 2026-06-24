@@ -1,7 +1,7 @@
 # 👩‍💻 Portafolio de Ciencia de Datos & IA — Karen Chuquimia
 
 > **Ciencia de Datos · Machine Learning · Visión por Computadora**
-> Egresada de Ingeniería en Sistemas de Información · El Alto, La Paz, Bolivia
+> Egresada de Ingeniería de Sistemas · El Alto, La Paz, Bolivia
 
 📩 karenchuquimia07@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/karen-alisson-chuquimia-mamani-284044366) · 💻 [GitHub](https://github.com/AlissonChuquimia)
 
