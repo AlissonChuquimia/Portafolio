@@ -12,4 +12,4 @@ datos históricos **1990–2026** (fuente: INE / SENAMHI).
 - `*.xlsx` / `*.csv` — datos históricos y predicciones generadas.
 
 ## 🛠️ Stack
-Python · Pandas · statsmodels (SARIMA) · Matplotlib · Tableau
+Python · Pandas · statsmodels (SARIMA) · Matplotlib 
